@@ -1,4 +1,13 @@
+# 💫 Hi 👋, I'm Vimal Kumar
+**An aspiring Data Analyst skilled in Python, SQL, Power BI, Excel & Machine Learning from Bangalore.**
 
+Email Me 👉 ✉️ **vimal.f2003@gmail.com**
+
+- 🔭 **I’m currently working on:** Real world Projects
+- 🤔 **I’m looking for role:** Data/Business Analyst
+- 📫 **How to reach me:** vimal.f2003@gmail.com
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vimalkumar-data) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vimal.f2003@gmail.com) 
 
